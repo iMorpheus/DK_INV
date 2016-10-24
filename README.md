@@ -9,6 +9,6 @@
   - en_AU Lee
   - en_US Ava
   - en_US Tom
-- say()
+- say(1)
 
 Outputs  audio samples in en_AU, en_GB and en_US in both male and female voices.
